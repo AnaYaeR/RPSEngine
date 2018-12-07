@@ -1,0 +1,16 @@
+Changelog 1.0
+----------------------------------------------------------------------------------
+This is the first version of Anaya Khadka's* Rock,Paper, Scissors Library.
+
+
+
+
+
+
+
+
+
+
+
+
+*This was based off another library

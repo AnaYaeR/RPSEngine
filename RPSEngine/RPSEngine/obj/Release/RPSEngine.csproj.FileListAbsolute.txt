@@ -1,0 +1,6 @@
+C:\Users\anaya\source\repos\RPSEngine\RPSEngine\bin\Release\RPSEngine.dll
+C:\Users\anaya\source\repos\RPSEngine\RPSEngine\bin\Release\RPSEngine.pdb
+C:\Users\anaya\source\repos\RPSEngine\RPSEngine\obj\Release\RPSEngine.csprojAssemblyReference.cache
+C:\Users\anaya\source\repos\RPSEngine\RPSEngine\obj\Release\RPSEngine.csproj.CoreCompileInputs.cache
+C:\Users\anaya\source\repos\RPSEngine\RPSEngine\obj\Release\RPSEngine.dll
+C:\Users\anaya\source\repos\RPSEngine\RPSEngine\obj\Release\RPSEngine.pdb
